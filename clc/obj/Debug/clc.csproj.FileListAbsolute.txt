@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\clc\clc\bin\Debug\clc.exe.config
+c:\users\user\documents\visual studio 2017\Projects\clc\clc\bin\Debug\clc.exe
+c:\users\user\documents\visual studio 2017\Projects\clc\clc\bin\Debug\clc.pdb
+c:\users\user\documents\visual studio 2017\Projects\clc\clc\obj\Debug\clc.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\clc\clc\obj\Debug\clc.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\clc\clc\obj\Debug\clc.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\clc\clc\obj\Debug\clc.exe
+c:\users\user\documents\visual studio 2017\Projects\clc\clc\obj\Debug\clc.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\clc\clc\obj\Debug\clc.csprojResolveAssemblyReference.cache
